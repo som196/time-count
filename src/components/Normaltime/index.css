@@ -1,0 +1,23 @@
+.current-time-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .current-time-inner-container {
+    display: flex;
+    flex-direction: row;
+  }
+  .current-time-heading {
+    color: black;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: 2.1rem;
+    margin-right: 0.6rem;
+  }
+  .current-time-para {
+    color: black;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+  

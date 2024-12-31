@@ -1,0 +1,41 @@
+.header-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2rem;
+    width: 90%;
+  }
+  .logo-container {
+    background-color: #cf2343;
+    width: 200px;
+    height: 100px;
+    border-style: none;
+  }
+  .rtime-head {
+    color: #ffffff;
+    font-weight: 600;
+    font-family: 'Roboto';
+    padding: 1rem;
+    font-size: 20px;
+  }
+  .other-container-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 400px;
+  }
+  .remainingtime-link {
+    color: #151717;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    align-self: center;
+  }
+  .normal-time {
+    color: #151717;
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+    align-self: center;
+  }
+  
